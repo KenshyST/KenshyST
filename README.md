@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Stiven Higuera Abadía
+![1751384481922](https://github.com/user-attachments/assets/ba272a2b-afcb-4353-b06c-fb0036674c84)
 
 🎮 **Multimedia Engineer | Fullstack Developer | Game Developer**  
 💼 React, Unity, Node.js | 🎓 Universidad Autónoma de Occidente (2024)  
