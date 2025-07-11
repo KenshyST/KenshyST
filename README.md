@@ -3,8 +3,8 @@
 🎮 **Multimedia Engineer | Fullstack Developer | Game Developer**  
 💼 React, Unity, Node.js | 🎓 Universidad Autónoma de Occidente (2024)  
 📍 Cali, Colombia | 🌐 [stivhig2002@gmail.com](mailto:stivhig2002@gmail.com)
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/89472777-2b85-44cc-8fd8-ad821e8064c4" />
-Itchio: https://kenshystz.itch.io
+
+<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/89472777-2b85-44cc-8fd8-ad821e8064c4" /> Itchio: https://kenshystz.itch.io
 
 ---
 
