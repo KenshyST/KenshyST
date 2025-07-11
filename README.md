@@ -39,10 +39,14 @@ I'm a passionate developer focused on building **immersive and interactive digit
 ### 🛠️ Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Unity](<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/58192fe0-ed3f-4e3a-8bad-aa02bc37bec2" />
-)
-![Unreal Engine 5](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/877c70ab-68bb-4e00-8cb1-54baecf0ec83" />
-)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/-Unreal-313131?logo=unrealengine&logoColor=white&style=for-the-badge)
+![VR](https://img.shields.io/badge/-VR/XR-ffffff?logo=oculus&logoColor=black&style=for-the-badge)
+
 
 <!--
 **KenshyST/KenshyST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
