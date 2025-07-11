@@ -30,7 +30,7 @@ I'm a passionate developer focused on building **immersive and interactive digit
 |--------|-------------|------|
 | 🧠 **PowerPlayInteractive** | VR educational game that challenges users in 3D circuits to develop real skills. | [🔗 GitHub](https://github.com/Jdlocio05/PowerPlayInteractive) |
 | 💬 **FullStack Chat WebApp** | Real-time responsive chat built with MERN Stack. | [🔗 GitHub](https://github.com/KenshyST/FullStack-Chat-WebApp-RESTAPI) |
-| ⚛️ **MERN WebApp** | MERN Store |  [🔗 GitHub]([https://github.com/KenshyST/FullStack-Chat-WebApp-RESTAPI](https://github.com/KenshyST/MERN-APP](https://github.com/KenshyST/MERN-APP)
+| ⚛️ **MERN WebApp** | MERN Store |  [🔗 GitHub](https://github.com/KenshyST/MERN-APP)
 | 🧩 **Valle Mágico** | Inclusive educational platform with QR media integration and accessible UI. | [🔗 Web](https://vallemagico.co) |
 | 🌌 **Universo Educativo** | Frontend rebuilt with animations, carousels and contextual UX elements. | [🔗 Web](https://universoeducactivo.com) |
 | 🧪 **Aulas STEAM** | 2D/3D cross-platform learning simulation in Unity and React. | [🔗 Web](https://si.aulasregionalfase2.com/menu) |
