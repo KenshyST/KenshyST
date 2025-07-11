@@ -3,6 +3,8 @@
 🎮 **Multimedia Engineer | Fullstack Developer | Game Developer**  
 💼 React, Unity, Node.js | 🎓 Universidad Autónoma de Occidente (2024)  
 📍 Cali, Colombia | 🌐 [stivhig2002@gmail.com](mailto:stivhig2002@gmail.com)
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/89472777-2b85-44cc-8fd8-ad821e8064c4" />
+Itchio: https://kenshystz.itch.io
 
 ---
 
@@ -36,7 +38,10 @@ I'm a passionate developer focused on building **immersive and interactive digit
 ### 🛠️ Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Unity](ht)
+![Unity](<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/58192fe0-ed3f-4e3a-8bad-aa02bc37bec2" />
+)
+![Unreal Engine 5](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/877c70ab-68bb-4e00-8cb1-54baecf0ec83" />
+)
 
 <!--
 **KenshyST/KenshyST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
