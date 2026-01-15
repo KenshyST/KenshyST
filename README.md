@@ -11,10 +11,10 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer focused on building **immersive and interactive digital experiences** on the web and in games. With over 2 years of hands-on experience in **frontend development (React, Vite, Zustand, Tailwind)** and **game development (Unity, Unreal Engine, VR)**, I thrive on combining code and creativity to craft compelling projects.
+Frontend Developer with two years of experience in full stack development. Proficient in React, Vue.js, and Tailwind, with a strong understanding of component-based architectures and frontend best practices. Skilled in backend integration using Node.js, Express, and Python, working with REST APIs, SQL Server, and PostgreSQL, and familiar with authentication flows such as JWT and OAuth. Additionally, has academic experience with AI workflows and data processing, including foundational knowledge of CNN and YOLO for object detection, as well as basic data cleaning, preprocessing, and model evaluation tasks.
 
 🔧 I'm currently working with:
-- React, Node.js, Express, MongoDB
+- React, Vue.Js Node.js, Express, MongoDB
 - Unity (C#, URP, Photon, VR/XR)
 - Git, GitHub, SCRUM & REST APIs
 
