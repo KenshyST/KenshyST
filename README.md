@@ -28,9 +28,10 @@ Frontend Developer with two years of experience in full stack development. Profi
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🧠 **PowerPlayInteractive** | VR educational game that challenges users in 3D circuits to develop real skills. | [🔗 GitHub](https://github.com/Jdlocio05/PowerPlayInteractive) |
+| 💼 **CRM-COMERCIAL** | Developed a responsive SPA frontend using Vue.js 3 and Vuetify 3, building 21 core views (Sales, Contacts, PQR, Marketing, Chat, Settings, Analytics, etc.) with reusable components and Material Design principles.  | [🔗 GitHub](https://github.com/KenshyST/CRM-Comercial) 
 | 💬 **FullStack Chat WebApp** | Real-time responsive chat built with MERN Stack. | [🔗 GitHub](https://github.com/KenshyST/FullStack-Chat-WebApp-RESTAPI) |
 | ⚛️ **MERN WebApp** | MERN Store |  [🔗 GitHub](https://github.com/KenshyST/MERN-APP)
+| 🧠 **PowerPlayInteractive** | VR educational game that challenges users in 3D circuits to develop real skills. | [🔗 GitHub](https://github.com/Jdlocio05/PowerPlayInteractive) |
 | 🧩 **Valle Mágico** | Inclusive educational platform with QR media integration and accessible UI. | [🔗 Web](https://vallemagico.co) |
 | 🌌 **Universo Educativo** | Frontend rebuilt with animations, carousels and contextual UX elements. | [🔗 Web](https://universoeducactivo.com) |
 | 🧪 **Aulas STEAM** | 2D/3D cross-platform learning simulation in Unity and React. | [🔗 Web](https://si.aulasregionalfase2.com/menu) |
