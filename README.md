@@ -33,7 +33,7 @@ Frontend Developer with two years of experience in full stack development. Profi
 | ⚛️ **MERN WebApp** | MERN Store |  [🔗 GitHub](https://github.com/KenshyST/MERN-APP)
 | 🧠 **PowerPlayInteractive** | VR educational game that challenges users in 3D circuits to develop real skills. | [🔗 GitHub](https://github.com/Jdlocio05/PowerPlayInteractive) |
 | 🧩 **Valle Mágico** | Inclusive educational platform with QR media integration and accessible UI. | [🔗 Web](https://vallemagico.co) |
-| 🌌 **Universo Educativo** | Frontend rebuilt with animations, carousels and contextual UX elements. | [🔗 Web](https://universoeducactivo.com) |
+| 🌌 **Universo Educativo** | Frontend rebuilt with animations, carousels and contextual UX elements. | [🔗 Web](https://universoeducaticvo.com) | 
 | 🧪 **Aulas STEAM** | 2D/3D cross-platform learning simulation in Unity and React. | [🔗 Web](https://si.aulasregionalfase2.com/menu) |
 
 ---
